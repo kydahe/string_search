@@ -1,9 +1,5 @@
 # string_search
 字符串搜索脚本
-<<<<<<< 02efe161474bdfb31eb755539cd117cccb65d68a
-=======
-<<<<<<< 51cb453427ceb95b9d4c9a37250cab8fe787ce98
-=======
 
 ##Introduction
 对一个文件夹下所有文件，进行字符串检索
